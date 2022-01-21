@@ -3,4 +3,4 @@
 | Preview
 | -------------------------:|
 
-| <img src="https://github.com/DursunYildiz/RickyAndMortyCollectionView/blob/main/RickAndMorty.gif" width="285" height="570">|
+| <img src="https://github.com/DursunYildiz/CurrencyConverter/blob/main/preview.png" width="285" height="570">|
